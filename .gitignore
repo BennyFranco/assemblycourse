@@ -1,12 +1,40 @@
 
-# Created by https://www.gitignore.io/api/windows,assembler,visualstudio,visualstudiocode
-# Edit at https://www.gitignore.io/?templates=windows,assembler,visualstudio,visualstudiocode
+# Created by https://www.gitignore.io/api/macos,windows,assembler,visualstudio,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=macos,windows,assembler,visualstudio,visualstudiocode
 
 ### Assembler ###
 *.exe
 *.o
 *.obj
 *.bc
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
 ### VisualStudioCode ###
 .vscode/*
@@ -387,4 +415,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-# End of https://www.gitignore.io/api/windows,assembler,visualstudio,visualstudiocode
+# End of https://www.gitignore.io/api/macos,windows,assembler,visualstudio,visualstudiocode
