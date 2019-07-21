@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08SignedDivMul", "08SignedDivMul.vcxproj", "{6C2E7D48-52A4-4144-BD02-4980938591A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2E7D48-52A4-4144-BD02-4980938591A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C2E7D48-52A4-4144-BD02-4980938591A2}.Debug|Win32.Build.0 = Debug|Win32
+		{6C2E7D48-52A4-4144-BD02-4980938591A2}.Release|Win32.ActiveCfg = Release|Win32
+		{6C2E7D48-52A4-4144-BD02-4980938591A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
